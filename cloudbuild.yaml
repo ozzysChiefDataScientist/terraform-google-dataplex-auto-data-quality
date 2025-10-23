@@ -13,7 +13,7 @@
 # limitations under the License.
 
 options:
-  logging: NONE
+  logging: CLOUD_LOGGING_ONLY
 
 steps:
 - id: 'branch name'
