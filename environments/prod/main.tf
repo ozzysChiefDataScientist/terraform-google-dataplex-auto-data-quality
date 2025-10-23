@@ -14,7 +14,7 @@
 
 module "deploy-prod" {
   source                 = "../../modules/deploy"
-  project_id             = "voltaic-cocoa-15440"
+  project_id             = "voltaic-cocoa-154400"
   data_quality_spec_file = "rules/orders.dev.yaml"
   environment            = "prod"
 }

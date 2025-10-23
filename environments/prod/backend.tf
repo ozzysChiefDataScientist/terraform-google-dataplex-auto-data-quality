@@ -14,6 +14,6 @@
 
 terraform {
   backend "gcs" {
-    bucket = "voltaic-cocoa-15440-tfstate-prod"
+    bucket = "voltaic-cocoa-154400-tfstate-prod"
   }
 }
