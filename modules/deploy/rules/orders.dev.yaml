@@ -58,7 +58,7 @@ rules:
     threshold: 0.99
     range_expectation:
       max_value: '1'
-      # min_value:
+      min_value: '0'
       strict_max_enabled: false
       strict_min_enabled: false
   - dimension: VALIDITY
